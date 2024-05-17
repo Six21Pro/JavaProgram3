@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PartTimeEmployee
+comment1.params=f\ l\ ssn\ h\ w
+comment1.target=PartTimeEmployee(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=double\ getWage()
+comment3.params=
+comment3.target=int\ getHours()
+comment4.params=w
+comment4.target=void\ setWage(double)
+comment5.params=h
+comment5.target=void\ setHours(int)
+comment6.params=
+comment6.target=double\ earnings()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
